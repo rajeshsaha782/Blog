@@ -29,9 +29,9 @@ FLMS means Fetch, Load, Merge and Sync.
 * Other community or team contact
 
 ### Real Acquisitions Dashboard ###
-Link:  [dashboard.ratoolkit.com](http://dashboard.ratoolkit.com/)
-Email: support@realacquisitions.com
-Pass: qwe112233
+-Link:  [dashboard.ratoolkit.com](http://dashboard.ratoolkit.com/)
+-Email: support@realacquisitions.com
+-Pass: qwe112233
 
 Modules:
 -	CAD
