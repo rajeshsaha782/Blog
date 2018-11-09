@@ -43,14 +43,14 @@ FLMS means Fetch, Load, Merge and Sync.
 -	Divorce
 -	MLS <br /> <br /> <br />
 There are some screens. <br />
-## Screen list: `screen –ls` <br />
-## Screen New Name: screen –s <new_ screen _name> <br />
-## Screen Existing Name: screen –x/-rd <screen _name>  Ex: `screen -rd grantor` <br />
-## Shell file location: /opt/shared/nightly-scheduler <br />
-## Shell naming convention: run_<module_name>_TX<countr <br />y_name><Fetch/Load/Marge/Sync> <br />
-## Example: `run_grantor_TXMontgomeryFetch.sh` <br />
+## Screen list: `screen –ls` <br /> ## 
+## Screen New Name: screen –s <new_ screen _name> <br /> ## 
+## Screen Existing Name: screen –x/-rd <screen _name>  Ex: `screen -rd grantor` <br /> ## 
+## Shell file location: /opt/shared/nightly-scheduler <br /> ## 
+## Shell naming convention: run_<module_name>_TX<countr <br />y_name><Fetch/Load/Marge/Sync> <br /> ## 
+## Example: `run_grantor_TXMontgomeryFetch.sh` <br /> ## 
 
-###Run a Module###
+### Run a Module ###
 
 *	./run_<module_name>_TX<country_name><FLMS>.sh
 	Ex: `./run_mlsreport_TXHarrisSync.sh`
