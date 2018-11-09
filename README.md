@@ -41,8 +41,9 @@ FLMS means Fetch, Load, Merge and Sync.
 -	Linebarger
 -	Transcript
 -	Divorce
--	MLS <br /> <br /> <br />
-There are some screens. <br />
+-	MLS <br /> <br />
+There are some screens.Screen uses to run the shell files in background. <br />
+#### Some information about Screen. <br />
  Screen list: `screen –ls` <br />  
  Screen New Name: screen –s <new_ screen _name> <br />  
  Screen Existing Name: screen –x/-rd <screen _name>  Ex: `screen -rd grantor` <br />  
